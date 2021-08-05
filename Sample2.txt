@@ -1,1 +1,2 @@
 Sample2 created
+sample2 modified
